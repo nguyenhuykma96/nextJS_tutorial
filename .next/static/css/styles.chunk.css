@@ -1,0 +1,14 @@
+mark {
+  border-radius: 5px;
+  background-color: aqua; }
+
+nav {
+  padding: 20px 0; }
+  nav a {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 24px; }
+
+
+/*# sourceMappingURL=styles.chunk.css.map*/
